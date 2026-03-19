@@ -1,4 +1,4 @@
-# Cache Memory Simulator (C++)
+# Cache Memory Simulator
 
 This project is a **Cache Memory Simulator implemented in C++**, designed to model the behavior of a **direct-mapped cache** as used in modern computer architecture.
 
